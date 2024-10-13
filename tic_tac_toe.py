@@ -1,3 +1,11 @@
+'''
+Developed by Adam Mah
+Released 10/13/24
+Tic Tac Toe Game
+
+'''
+
+
 import random
 
 print ("Welcome to Tic Tac Toe")
